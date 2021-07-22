@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/oovwall/lottery#readme",
   "devDependencies": {
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   }
 }
